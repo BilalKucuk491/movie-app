@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "The Shawshank Redemption",
+    "date": 1994,
+    "duration": 142,
+    "category": "Drama",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://flxt.tmsimg.com/assets/p15987_p_v8_ai.jpg",
+    "video": "https://imdb-video.media-imdb.com/vi3877612057/1434659607842-pgv4ql-1616202333253.mp4?Expires=1667219531&Signature=EkCmUdrekpnfzjbMK8zQsQYTh5fC1KPII4dD9bDOkvbRrgaK14lcP2PKiyy0MWmAVsuHC-YbKsqf3KFXwTG~J1ou7ieqs~RxRmkDVSw69lIhqsg1xTuDwe1auWtKGVwyCaSGlPmWR~J1zUROyGHAaa92xrXUpNllk1pLmitJoOw451pVKTt4aF-bbN5lfoKd1-FkxGiXd9343dCMgr9pp3iz6B5NC~Juu~xwbUGK4YvKbORkjnlidZz4KEK2mosAceIBCD0OBnp2TFa6Cvq~3hOja2xYUh9DnGfN~plQ5~Eb85uXRxTJPJg5nK3eZkZmEeoTONQKGBq9A2nWhngxlg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+    "rating": 9.3,
+    "director": "Frank Darabont",
+    "Writers": "Stephen King,Frank Darabont",
+    "Stars": [
+      {"name": "Tim Robbins"},
+      {"name": "Morgan Freeman"},
+      {"name": "Bob Guntan"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Godfather",
+    "date": 1972,
+    "duration": 175,
+    "category": "Crime,Drama",
+    "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg",
+    "video":"https://imdb-video.media-imdb.com/vi1348706585/1434659607842-pgv4ql-1616202346191.mp4?Expires=1667219605&Signature=G2VYdLqsStKKheX8vmhd0QCec~XiuHZ-4WuVsFkgiqeLx0JfdLk0DC2OqRz-QmpkP3-HrdXbVh8LS1gzyfjcFkqaMMxSAYX0QK56EHsiDirsvlnu1s~wL6ewMB8EPYiTWvpRYlwfpbI1cNwm7Gzp9FFJzM7WiTebBr8ipHEKFM-0oNmhtjNUgq8oQ9OlM6ujsH-vAknmAtvr3LSHq4sFUnJvOSQMZBMomNNo1wQeJKBEIIboOCbemuEAxydXQiYiM6Wc124Mzor-OgdpsRz6UEjjGcnxJTLzS8DxJkenVnNJYSjlQIDwPmpl0UGfiXmTB4tih1kjeHsJCH~JGwOaxw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "Writers": "Mario Puzo,Francis Ford Coppola",
+    "Stars": [
+      {"name": "Marlon Brando"},
+      {"name": "Al Pacino"},
+      {"name": "James Caan"}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Dark Knight",
+    "date": 2008,
+    "duration": 152,
+    "category": "Action,Crime,Drama",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "image": "https://www.arthipo.com/image/cache/catalog/poster/movie/1-758/pfilm76-76-film-dark-knight-6-586x937.jpg",
+    "video":"https://imdb-video.media-imdb.com/vi324468761/1434659607842-pgv4ql-1563712918369.mp4?Expires=1667219823&Signature=nnNIvaI-Yk~HN~fZPXOj8kxtD6ePYi62XQz4CBe8~B7SE7qo5J7Qrp7Dgjdat2VchtpMmkm-cuI8DIqU0tbjuRL5w3czYdeW6NXDEuvfBoMyusS2IBUMLowdIij7nTBq4dsLmsNHu5cBF5-IidvrZK2gy3J9XCfT~vROAJAsD-JaqMsl8xxE7dywup9mawkwBbQG0qFCGLTLPluL5IUIYLvTzFQPE1i4iYRp76VxTATDrPkOgwMVMO7deSLwWpFftuuu-V44XT5ggxjaE9MThgJEoFlZXFZ04CnhueF2ZtY~Anigl0eVWXhbT3Bc3qxTLDhbRTJGRyZSIE13PsUNsQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+    "rating": 9,
+    "director": "Christopher Nolan",
+    "Writers": "Jonathan Nolan,Christopher Nolan,David S. Goyer",
+    "Stars": [
+      {"name": "Christian Bale"},
+      {"name": "Heath Ledger"},
+      {"name": "Michael Caine"}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Godfather Part II",
+    "date": 1974,
+    "duration": 202,
+    "category": "Crime,Drama",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "image": "data:image/jpeg;base64,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",
+    "video":"https://imdb-video.media-imdb.com/vi696162841/1434659607842-pgv4ql-1564159556047.mp4?Expires=1667219865&Signature=a5GijENv4-lh6R2zkk5VdfpSzsupzF86JRTp4ykYgCxz9zfu~VKh~vqvCuXaq150rMB9OYXNa1o7p10vnAahRqkGe3JeHcRRYGeAgRqAy7RCOpE3oZtijkufm-BNpEDwg-YEbf5Z-KuqiwJzeLaBHqcKE2GyY14mjeKW2cal4d10CQDWhkcKhzpKqzWC~OjEC8-Q058gg6xY9Nl--5O4AkjjugDrTHbcZfExPPq3rTzzHwWfaEELiInxQB~a2aQZAumzcJHOVWPPMHMceryyC1MVJxIVXwMFGFOl4-sgC5ugdsNJdRzOVx65bUKPtzvJUGjksUJg-t63rYkDQ5vK0Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+    "rating": 9,
+    "director": "Francis Ford Coppola",
+    "Writers": "Mario Puzo,Francis Ford Coppola",
+    "Stars": [
+      {"name": "Robert De Niro"},
+      {"name": "Al Pacino"},
+      {"name": "Robert Duvall"}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "12 Angry Men",
+    "date": 1957,
+    "duration": 96,
+    "category": "Crime,Drama",
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "image": "https://productimages.hepsiburada.net/s/34/375/10427497873458.jpg",
+    "video":"https://imdb-video.media-imdb.com/vi2924462873/1434659607842-pgv4ql-1648342297628.mp4?Expires=1667219895&Signature=bHn4yeavYcRBBpzR~Yk4TVYczwDBvZEiR1fDUtcYg-EYNLPhwA1LwB9Eu2DWoY1IDhcIJxXFgwVe5Qcws4uwi27LtTO0Yib3Lyb-neDu5atIY0JBRI8AQzMn2riIkmfEXgvBuTUrkeOYtd9ZqCjisTNkNu6a2SGAwvY5E3~Ps9pVLISdRhWXUWk5axIaj2bJaMniLOEJ5WnGA9DSHgMFbWMwXqfRhNSv3sLxGNWY-kkUn3eWVS0pUVQouUMy79694XOADGrD7v43Ow8h5xTQeaIC1SJC5nTn3leFmIvfC0we41-mXOTNIrkNz4rFRF3NvVswEfwdbr6GaF1193PNIA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+    "rating": 9,
+    "director": "Sidney Lumet",
+    "Writers": "Reginald Rose",
+    "Stars": [
+      {"name": "Henry Fonda"},
+      {"name": "Lee J. Cobb"},
+      {"name": "Martin Balsam"}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Schindler's List",
+    "date": 1993,
+    "duration": 195,
+    "category": "Biography,Crime,Drama",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzhooz3MRSJ9W2pbOUKAyra9ahmCRzw96nA&usqp=CAU",
+    "video":"https://imdb-video.media-imdb.com/vi1158527769/1434659607842-pgv4ql-1564710232825.mp4?Expires=1667219074&Signature=QsP4cUFkfJtni09wrMV80EgMyVjg1LafbKqQPWC3zjD-ctnkp1ORIEJ2FHUcOMxmavMpDeLpDpIYXt6KeeIGqlbh166fYCCHH1DxQImC9dLWtepxMzklmF8w00G6Jk5zRi4xv9xa3tmWIwcTmEFSi0qKEQeOrOoBofIYMxY-FSp2Wl5siE54oNzRga2ctkLeQROySMV1Dss-WAAtIBwUpVaAjhMj-1aVWxuVt090G5lzzyeOYRJM1~l1vkhxGr3o4K1XQPCTwdJMMsGfDQt-XA8PlkNmgqtjp8hfE8GRkmZUO6w0KRX-lbaFnXJMNiCrYjoFMO2z9LYaWMVpKhJUtA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+    "rating": 9,
+    "director": "Steven Spielberg",
+    "Writers": "Thomas Keneally,Steven Zaillian",
+    "Stars": [
+      {"name": "Liam Neeson"},
+      {"name": "Ralph Fiennes"},
+      {"name": "Ben Kingsley"}
+    ]
+  }
+]
