@@ -1,4 +1,4 @@
-<h3>Screenshots</h3>
+<h1>Screenshots</h1>
 
 
 [movie_app_img_4](https://user-images.githubusercontent.com/64019703/198883667-4c5e9690-8626-4cb0-9eab-011c08cbfbf1.png)
