@@ -1,3 +1,6 @@
+<h1>Technologies</h1>
+<h2>React Redux Toolkit And React Navigiation</h2>
+
 <h1>Screenshots</h1>
 
 <img src="https://user-images.githubusercontent.com/64019703/198883674-312b1ddb-9493-40df-8b89-1e1fdc70c13a.png" height="600" style="max-width: 100%;">
